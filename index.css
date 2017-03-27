@@ -1,0 +1,35 @@
+#Jacksons {
+	font-weight: bold;
+}
+
+#feedback {
+	color: red;
+}
+
+.container-fluid {
+	text-align: center;
+}
+
+label {
+	font-weight: normal;
+}
+
+.form {
+	background-color: #F3F3F3;
+	border: black;
+	max-width: 50%;
+	margin: auto;
+	padding: 5px;
+}
+
+img {
+	max-width: 50%;
+	margin: auto;
+}
+
+/* Small devices */
+@media (max-width: 700px) {
+	.form {
+		max-width: 90%;
+	}
+}
